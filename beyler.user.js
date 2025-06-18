@@ -13,7 +13,7 @@
 // Contribution: ibrahimsql - https://x.com/ibrahimsql / https://github.com/ibrahmsql
 
 //// okunabilir kod yazmak çok zor -pwish
-    //
+  // we made this extension bc user "linuxcu1" kept typing "guys" then asking dumb qs lol so we made it as a joke hey linuxcu f u :D -ibrahimsql
 
 (function() {
     'use strict';
