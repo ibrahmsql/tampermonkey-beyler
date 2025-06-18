@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1b
 // @description  Replaces every chat message from linuxcu1 with "beyler"
-// @match        https://btt.community/chat/c/sohbet/2
+// @match        https://btt.community/*
 // @grant        none
 // ==/UserScript==
 
